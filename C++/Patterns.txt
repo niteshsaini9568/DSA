@@ -1,0 +1,2 @@
+Storing Values if you think it will need in future
+Two pointers approach
