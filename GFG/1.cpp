@@ -1,12 +1,23 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
-int main(){
-    int arr[] = {1,2,3,4,5,6};
-    int n = sizeof(arr)/sizeof(arr[0]);
-
+int maxSubarraySum(vector<int> &arr) {
     
+    int res = arr[0];           
+    int maxEnding = arr[0];     
 
+    for (int i = 1; i < arr.size(); i++) {
+        
+        maxEnding = max(arr[i], maxEnding + arr[i]);
+        res = max(res, maxEnding);
+    }
+    return res;
+}
 
+int main() {
+    vector<int> arr = {2, 3, -8, 7, -1, 2, 3};
+    cout << maxSubarraySum(arr); 
     return 0;
 }
