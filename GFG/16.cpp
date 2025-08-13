@@ -3,22 +3,22 @@ using namespace std;
 
 bool palindrome(char arr[], int i, int j){
     if(i >= j){
-        return;
+        return true;  
     }
 
-    if(arr[i] == arr[j]){
-        return true;
-    }else{
-        return false;
+    
+    if(tolower(arr[i]) != tolower(arr[j])){
+        return false;  
     }
-    palindrome(arr, ++i, --j);
+
+    
+    return palindrome(arr, i + 1, j - 1);
 }
 
 int main(){
-    char arr[] = "Nitesh saini";
-    int size = sizeof(arr)/sizeof(arr[0]);
-
-    cout << palindrome(arr, 0, size-1);;
+    char arr[] = "MaM"; 
+    int size = strlen(arr); 
+    cout << palindrome(arr, 0, size - 1);
     
     return 0;
 }
