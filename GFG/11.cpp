@@ -13,6 +13,7 @@ void print(int n, int a = 0){
 
 int main(){
     int n;
+    cout << "Enter a Number" << endl;
     cin >> n;
     print(n);
     return 0;
