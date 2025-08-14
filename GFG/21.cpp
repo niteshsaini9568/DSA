@@ -1,5 +1,4 @@
 // Subset Sum
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -15,6 +14,7 @@ bool subset_sum(int arr[], int n, int sum, int i) {
     if (arr[i] <= sum) {
         take = subset_sum(arr, n, sum - arr[i], i + 1);
     }
+
     bool no_take = subset_sum(arr, n, sum, i + 1);
 
     return take || no_take; 
