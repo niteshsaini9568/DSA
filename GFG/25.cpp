@@ -6,7 +6,7 @@ struct Dir {
     char move;
 };
 
-bool isValid(int r, int c, int n){ // Limit to Sqaured Matrix
+bool isValid(int r, int c, int n){ // Limit to Sqaured Matrix otherwise take maze as parameter
     return (r >= 0 && r < n && c >= 0 && c < n);
 }
 
@@ -35,7 +35,7 @@ void rat_maze(int maze[][4], int row, int col, int n, vector<string> &ans, strin
 int main(){
     int maze[4][4] = {
         {1,0,0,0},
-        {1,0,0,1},
+        {1,1,0,1},
         {1,1,0,0},
         {0,1,1,1},
     };
