@@ -27,10 +27,10 @@ int main(){
         temp = newNode;
     }
 
-    Node* temp2 = Head;
-    while(temp2 != NULL){
-        cout << temp2->data << endl;
-        temp2 = temp2->next;
+    Node* temp = Head;
+    while(temp != NULL){
+        cout << temp->data << endl;
+        temp = temp->next;
     }
 
     return 0;
