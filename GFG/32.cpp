@@ -20,6 +20,18 @@ public:
     List(){
         head = tail = NULL; 
     }
+
+    void push_front(int x){
+        Node* newNode = new Node(x);
+        if(head == NULL){
+            head = tail = newNode;
+        }else{
+            newNode->next = head;
+            head = newNode;
+        }
+    }
+
+    
 };
 
 int main(){
