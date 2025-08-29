@@ -31,12 +31,29 @@ public:
         }
     }
 
+    void print_ll(){
+        Node* temp = head;
+
+        while(temp!=NULL){
+            cout << temp->data << " ";
+            temp = temp->next;
+        };
+
+        cout << endl;
+    }
+
     
 };
 
 int main(){
+    List ll;
 
+    ll.push_front(3);
+    ll.push_front(2);
+    ll.push_front(1);
+    ll.push_front(0);
 
+    ll.print_ll();
 
     return 0;
 }
