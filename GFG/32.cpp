@@ -41,6 +41,32 @@ public:
             tail = newNode;
         }
     }
+
+    void pop_front(){
+        if(head == NULL){
+            return;
+        }
+
+        Node* temp = head;
+        head = head->next;
+        temp->next = NULL;
+    }
+
+    void pop_back(){
+        if(head == NULL){
+            return;
+        }
+
+        Node* temp = head;
+
+        while(temp->next->next == NULL){
+            temp = temp->next;
+        };
+
+        temp->next = NULL;
+        delete tail;
+        tail = temp;
+    }
  
     void print_ll(){
         Node* temp = head;
