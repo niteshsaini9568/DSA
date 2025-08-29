@@ -31,6 +31,17 @@ public:
         }
     }
 
+    void push_back(int val){
+        Node* newNode = new Node(val);
+
+        if(head == NULL){
+            head = tail = newNode;
+        }else{
+            tail->next = newNode;
+            tail = newNode;
+        }
+    }
+ 
     void print_ll(){
         Node* temp = head;
 
