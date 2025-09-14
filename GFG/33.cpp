@@ -26,7 +26,7 @@ int main() {
         cout << temp->data << " -> ";
         temp = temp->next;
     }
-    cout << "NULL" << endl;34
+    cout << "NULL" << endl;
 
     Node* prev = NULL;
     Node* curr = head;

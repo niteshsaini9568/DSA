@@ -1,8 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+class Node{
+    int data;
+    int* Next;
+
+
+    int Node(int val){
+        data = val;
+    }
+};
+
+
+
+
 int main(){
-    vector<int> a ;
+    
 
 
     return 0;

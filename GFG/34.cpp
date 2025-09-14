@@ -15,6 +15,13 @@ void binary_to_decimal(vector<int> arr){
     cout << num;
 }
 
+void decimal_to_binary(int n){
+
+    while(n > 0){
+        
+    }
+}
+
 // Binary to Decimal
 int main(){
     vector<int> arr;
