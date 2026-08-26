@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Array
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/niteshsaini9568/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
