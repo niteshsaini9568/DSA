@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0835-image-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/niteshsaini9568/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
