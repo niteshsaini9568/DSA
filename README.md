@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niteshsaini9568/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/niteshsaini9568/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niteshsaini9568/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/niteshsaini9568/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
