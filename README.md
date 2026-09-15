@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/niteshsaini9568/DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/niteshsaini9568/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0835-image-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/niteshsaini9568/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/niteshsaini9568/DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/niteshsaini9568/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niteshsaini9568/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
