@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/niteshsaini9568/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/niteshsaini9568/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/niteshsaini9568/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
