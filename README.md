@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/niteshsaini9568/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/niteshsaini9568/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/niteshsaini9568/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/niteshsaini9568/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
