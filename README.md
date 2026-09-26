@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/niteshsaini9568/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/niteshsaini9568/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/niteshsaini9568/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/niteshsaini9568/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/niteshsaini9568/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/niteshsaini9568/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
