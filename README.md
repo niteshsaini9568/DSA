@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/niteshsaini9568/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/niteshsaini9568/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/niteshsaini9568/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/niteshsaini9568/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/niteshsaini9568/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/niteshsaini9568/DSA/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/niteshsaini9568/DSA/tree/main/0198-house-robber/) | Medium |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/niteshsaini9568/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Longest Increasing Subsequence
@@ -295,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
