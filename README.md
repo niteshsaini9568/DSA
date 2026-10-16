@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/niteshsaini9568/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/niteshsaini9568/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/niteshsaini9568/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/niteshsaini9568/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/niteshsaini9568/DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/niteshsaini9568/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/niteshsaini9568/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/niteshsaini9568/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/niteshsaini9568/DSA/tree/main/0115-distinct-subsequences/) | Hard |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/niteshsaini9568/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/niteshsaini9568/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/niteshsaini9568/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/niteshsaini9568/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/niteshsaini9568/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/niteshsaini9568/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/niteshsaini9568/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/niteshsaini9568/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niteshsaini9568/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -335,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niteshsaini9568/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
