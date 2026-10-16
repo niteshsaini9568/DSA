@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niteshsaini9568/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/niteshsaini9568/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/niteshsaini9568/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0835-image-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
@@ -202,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niteshsaini9568/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/niteshsaini9568/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/niteshsaini9568/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/niteshsaini9568/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/niteshsaini9568/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/niteshsaini9568/DSA/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,9 +343,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niteshsaini9568/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshsaini9568/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
