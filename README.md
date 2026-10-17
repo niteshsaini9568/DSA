@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/niteshsaini9568/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niteshsaini9568/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/niteshsaini9568/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/niteshsaini9568/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niteshsaini9568/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/niteshsaini9568/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niteshsaini9568/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
