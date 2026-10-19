@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niteshsaini9568/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/niteshsaini9568/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/niteshsaini9568/DSA/tree/main/1048-longest-string-chain/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/niteshsaini9568/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niteshsaini9568/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/niteshsaini9568/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/niteshsaini9568/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/niteshsaini9568/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/niteshsaini9568/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/niteshsaini9568/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/niteshsaini9568/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Geometry
