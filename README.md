@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/niteshsaini9568/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/niteshsaini9568/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/niteshsaini9568/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/niteshsaini9568/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3731-find-missing-elements](https://github.com/niteshsaini9568/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/niteshsaini9568/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -198,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/niteshsaini9568/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/niteshsaini9568/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/niteshsaini9568/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/niteshsaini9568/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/niteshsaini9568/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/niteshsaini9568/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/niteshsaini9568/DSA/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/niteshsaini9568/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/niteshsaini9568/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/niteshsaini9568/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
