@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/niteshsaini9568/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/niteshsaini9568/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/niteshsaini9568/DSA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/niteshsaini9568/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2029-stone-game-ix](https://github.com/niteshsaini9568/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/niteshsaini9568/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/niteshsaini9568/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/niteshsaini9568/DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/niteshsaini9568/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/niteshsaini9568/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/niteshsaini9568/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
