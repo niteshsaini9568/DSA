@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/niteshsaini9568/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/niteshsaini9568/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/niteshsaini9568/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/niteshsaini9568/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/niteshsaini9568/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/niteshsaini9568/DSA/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/niteshsaini9568/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/niteshsaini9568/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/niteshsaini9568/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niteshsaini9568/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/niteshsaini9568/DSA/tree/main/0836-rectangle-overlap/) | Easy |
